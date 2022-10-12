@@ -11,7 +11,7 @@ https://codepen.io/ is used to share this work.
 
 < p >: paragraph
 
-< ul >: list
+< ul >: (can add in between < li >< /li >) list
 
 < ol >: row list
 
